@@ -7,7 +7,7 @@ canvas.height = window.innerHeight;
 // Create and manage all individual symbols
 class Symbol{
     constructor(x, y, fontSize, canvasHeight){
-        this.characters = "ヌフムユュルグズブヅプエェケ李可馨是小怪兽马蹄是是大怪兽爸爸妈妈超级打怪大王セテネヘメレヱゲゼデベペオォコソッン0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        this.characters = "ヌフムユュルグズブヅプエェケ李可儿是小怪兽马蹄子是大怪兽爸爸妈妈超级打怪大王セテネヘメレヱゲゼデベペオォコソッン0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         this.x = x;
         this.y = y; 
         this.fontSize = fontSize;
